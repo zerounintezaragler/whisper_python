@@ -5,7 +5,7 @@ import sys
 whisper_python_package_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../package/whisper_python/lib'))
 sys.path.append(whisper_python_package_path)
 
-from whisper_python.lib.whisper_python import *
+from whisper_python.whisper_python.whisper_python import *
 
 
 async def main():

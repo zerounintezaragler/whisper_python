@@ -1,19 +1,29 @@
 [project]
 name = "whisper-python"
-version = "0.0.0"
+version = "0.0.5"
 description = "whisper_python ZerounIntezarAgler"
-authors = ["zerounintezaragler"]
-license = "MIT License"
+authors = [{ name="Zeroun Intezar Agler" }]
+license-files = ["LICENSE"]
 readme = "README.md"
+
+[project.urls]
 homepage = "https://github.com/zerounintezaragler/whisper_python"
 repository = "https://github.com/zerounintezaragler/whisper_python"
 documentation = "https://github.com/zerounintezaragler/whisper_python"
 
-packages = [
-    { include = "lib" }
-]
+
+
+[tool.setuptools]
+package-dir = {"" = "lib"}
+
+[tool.setuptools.packages.find]
+where = ["lib"]
+
 
 [build-system]
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
+# publish
+# python -m build
+# twine upload dist/*
