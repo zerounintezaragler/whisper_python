@@ -1,6 +1,6 @@
 # Whisper Python
 
-**Whisper Python** {description}
+**Whisper Python** dapatkan teks dari sebuah audio apapun, tanpa bayar, secara gratis offline, tidak perlu gpu, Dan tidak perlu convert FFMPEG
 
 - 🇮🇩 [Indonesia](https://github.com/zerounintezaragler/whisper_python/blob/main/README.md)
 - 🇨🇿 [Afrika](https://github.com/zerounintezaragler/whisper_python/blob/main/README_AFRIKA.md)
@@ -16,11 +16,12 @@
 
 ## Fakta
 
-- Library ini tidak terikat banyak depenencides pihak 3
+- Library ini tidak terikat banyak dependencies pihak 3
+- Tidak perlu ffmpeg
 
 ## Feature
 
-- [x] **Sangat Cepat** Library Async (**Tidak Memblokir Threads**)
+- [x] **Sangat Cepat** Library Async
 - [x] **Mudah Digunakan**
 
 ## Contoh
