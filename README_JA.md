@@ -1,28 +1,27 @@
-＃ささやきPython
+# Whisper Python
 
-**ささやきpython **任意のオーディオから、支払いなしで、無料のオフラインで、GPUの必要はなく、FFMPEGを変換する必要はありません
+** Whisper Python ** Get text from any audio, without paying, for free offline, no need for GPU, and no need to convert FFMPEG
 
--🇮🇩[インドネシア]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme.md）
--🇨🇿[アフリカ]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_afrika.md）
--🇨🇳[中国]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_china.md）
--🏴󠁧󠁢󠁥󠁮󠁧󠁿[英語]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_english.md）
--🇮🇳[インド]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_india.md）
--🇮🇩[java]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jawa.md）
--🇯🇵[日本語]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jepang.md）
--🇰🇷[韓国]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_korea.md）
--🇷🇺[ロシア]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_russia.md）
--🇮🇩[sundanese]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_sunda.md）
--🇹🇭[タイ]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_thailand.md）
+- 🇮🇩 [Indonesia] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme.md)
+-🇺🇸[英語]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_en.md）
+- 🇰🇷 [Korea, Republic of South Korea] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ko.md)
+- 🇨🇳 [China] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_zh-cn.md)
+- 🇿🇦 [South Africa] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_af.md)
+- 🇮🇳 [India] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_hi.md)
+- 🇯🇵 [japan] (https://github.com/zerounintezaragler/Whisper_Python/blob/main/readme_ja.md)
+- 🇷🇺 [russia] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ru.md)
+- 🇹🇭 [Thailand] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_th.md)
+- 🇦🇪 [United Arab Emirates] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ar.md)
 
 ＃＃ 事実
 
  - このライブラリは多くの依存関係に縛られていません3
--FFMPEGは必要ありません
+- No need for FFMPEG
 
 ＃＃ 特徴
 
  -  [x] **非常に速い** ASHNCライブラリ
- -  [x] **使いやすい**
+- [x] ** Easy to use **
 
 ＃＃ 例
 
@@ -30,17 +29,17 @@
 
 ＃＃ インストール
 
-インストールする前に、少なくともコンピューター /デバイスにPtyhonをインストールしていることを確認してください。 [Python Webサイト]（https://www.python.org）
+Before installing make sure you know Basic Python at least you have installed Ptyhon on your computer / device. [Python Webサイト]（https://www.python.org）
 
- -  ** python **
+- ** Python **
 
   「バッシュ
-  ピップインストールささやきパイソン
+  Pip Install Whisper-Python
   `` `
 
 ##ドキュメント
 
-### suresinealized
+### ensureineinealized
 
 メソッドは自由に呼ばれなければなりません** on ** / method ** on **の後に** / **が** on **を提案します**
 
@@ -56,17 +55,17 @@
 
 **例：**
 
-`` python
+`` `Python
   whisperpythonzerounintezaragler.initialized（）を待っています
 `` `
 
 ＃＃＃ の上
 
-この方法は、Invoke / Updatesからデータの更新を取得するのに役立ちます
+This method is useful for getting data updates from invokes / updates
 
 **例：**
 
-`` python
+`` `Python
 
   def on_callback（update：dict）：
     印刷（更新）
@@ -83,7 +82,7 @@
 **例：**
 
 `` python
-    結果= whisperpythonzerounintezaragler.loadmodelfromfilepath（whispermodelfilekat = "../..// big-data/wisper/ggml-base.en.en.bin"）
+    result = await whisperpythonzerounintezaragler.loadmodelfromfilepath (whispermodelfilekat = "../../../ big-data/whisper/ggml-base.en.bin")
     印刷（結果）
 `` `
 
@@ -112,13 +111,10 @@ if ** you ** still ** feel ** **難易度**と**混乱** ** **から**グルー�
 
 ##私をサポートします
 
-このプログラムが便利だと思う場合は、リンクで私をサポートできます[Github Zeroun Intezar Agler]（https://github.com/zerounintezaragler）は、ソーシャルメディアと私のスポンサーを利用できます。私は気にしませんあなたが少しお金をフォロー /寄付する場合
+このプログラムが便利だと思う場合は、リンクで私をサポートできます[Github Zeroun Intezar Agler]（https://github.com/zerounintezaragler）は、ソーシャルメディアと私のスポンサーを利用できます。あなたがちょっとしたお金だけをフォロー /寄付するかどうかは気にしません
 
 ありがとう
 
-Zerounintezaragler-27-07-2025
-
-
-##タグ
+Zerounintezaragler-27-07-2025##タグ
 
 -whisper_python python

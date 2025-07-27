@@ -3,16 +3,15 @@
 ** Whisper Python ** 무료 오프라인으로 지불하지 않고 GPU가 필요하지 않으며 FFMPEG를 변환 할 필요가 없습니다.
 
 - [인도네시아] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme.md)
-- ([아프리카] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_afrika.md)
-- h [중국] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_china.md)
-- h [영어] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_english.md)
-- h [인도] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_india.md)
-- [Java] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jawa.md)
-- h [일본어] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jepang.md)
-- ([한국] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_korea.md)
-- [러시아] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_russia.md)
-- [Sundanese] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_sunda.md)
-- [태국] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_thailand.md)
+- h [영어] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_en.md)
+- republic [한국, 한국 공화국] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ko.md)
+- h [중국] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_zh-cn.md)
+- [남아프리카] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_af.md)
+- h [인도] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_hi.md)
+- [일본] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ja.md)
+- [러시아] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ru.md)
+- [태국] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_th.md)
+- ir [아랍 에미리트 항공] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ar.md)
 
 ## 사실
 
@@ -112,13 +111,10 @@
 
 ## 나를 지원합니다
 
-이 프로그램이 유용하다고 생각되면 링크에서 [Github Zeroun Intezar Agler] (https://github.com/zerounintezaragler)를 지원할 수 있습니다. 나는 신경 쓰지 않는다약간의 돈을 팔로우 / 기부하는 경우
+이 프로그램이 유용하다고 생각되면 링크에서 [Github Zeroun Intezar Agler] (https://github.com/zerounintezaragler)를 지원할 수 있습니다. 당신이 약간의 돈을 팔로우 / 기부해도 괜찮습니다.
 
 감사합니다
 
-Zerounintezaragler-27-07-2025
-
-
-## 태그
+Zerounintezaragler-27-07-2025## 태그
 
 -whisper_python python

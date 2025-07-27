@@ -3,16 +3,15 @@
 ** कानाफूसी पायथन ** किसी भी ऑडियो से पाठ प्राप्त करें, बिना भुगतान किए, मुफ्त ऑफ़लाइन के लिए, GPU की कोई आवश्यकता नहीं है, और FFMPEG को बदलने की आवश्यकता नहीं है
 
 - [[इंडोनेशिया] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme.md)
-- [[अफ्रीका] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_afrika.md)
-- [[चीन] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_china.md)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [अंग्रेजी] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_english.md)
-- [[भारत] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_india.md)
-- 🇮🇩 [जावा] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jawa.md)
-- 🇯🇵 [जापानी] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jepang.md)
-- [[कोरिया] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_korea.md)
-- 🇷🇺 [रूस] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_russia.md)
-- 🇮🇩 [सुंदरनी] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_sunda.md)
-- 🇹🇭 [थाईलैंड] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_thailand.md)
+- 🇺🇸 [अंग्रेजी] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_en.md)
+- [[कोरिया, दक्षिण कोरिया गणराज्य] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ko.md)
+- 🇨🇳 [चीन] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_zh-cn.md)
+- 🇿🇦 [दक्षिण अफ्रीका] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_af.md)
+- [[भारत] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_hi.md)
+- 🇯🇵 [जापान] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ja.md)
+- 🇷🇺 [रूस] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ru.md)
+- 🇹🇭 [थाईलैंड] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_th.md)
+- 🇦🇪 [संयुक्त अरब अमीरात] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ar.md)
 
 ## तथ्य
 
@@ -112,13 +111,10 @@
 
 ## मुझे समर्थन करो
 
-यदि आपको लगता है कि यह कार्यक्रम उपयोगी है, तो आप मुझे [GitHub Zeroun Intezar Agler] (https://github.com/zerounintezaragler) का समर्थन कर सकते हैं, जो सोशल मीडिया और मेरे प्रायोजक उपलब्ध है। मुझे कोई आपत्ति नहींयदि आप केवल थोड़े से पैसे का अनुसरण / दान करते हैं
+यदि आपको लगता है कि यह कार्यक्रम उपयोगी है, तो आप मुझे [GitHub Zeroun Intezar Agler] (https://github.com/zerounintezaragler) का समर्थन कर सकते हैं, जो सोशल मीडिया और मेरे प्रायोजक उपलब्ध है। मुझे कोई आपत्ति नहीं है अगर आप केवल थोड़ा पैसा फॉलो / दान करते हैं
 
 धन्यवाद
 
-ZEROUNINTEZARAGLER-27-07-2025
-
-
-## टैग
+ZEROUNINTEZARAGLER-27-07-2025## टैग
 
 - व्हिस्पर_पिथन पायथन

@@ -3,16 +3,15 @@
 ** Whisper Python ** รับข้อความจากเสียงใด ๆ โดยไม่ต้องจ่ายเงินฟรีออฟไลน์ไม่จำเป็นต้องใช้ GPU และไม่จำเป็นต้องแปลง FFMPEG
 
 - 🇮🇩 [อินโดนีเซีย] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme.md)
-- 🇨🇿 [แอฟริกา] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_afrika.md)
-- 🇨🇳 [จีน] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_china.md)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [ภาษาอังกฤษ] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_english.md)
-- 🇮🇳 [อินเดีย] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_india.md)
-- 🇮🇩 [java] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jawa.md)
-- 🇯🇵 [ญี่ปุ่น] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jepang.md)
-- 🇰🇷 [เกาหลี] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_korea.md)
-- 🇷🇺 [รัสเซีย] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_russia.md)
-- 🇮🇩 [Sundanese] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_sunda.md)
-- 🇹🇭 [ไทย] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_thailand.md)
+- 🇺🇸 [ภาษาอังกฤษ] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_en.md)
+- 🇰🇷 [เกาหลีสาธารณรัฐเกาหลีใต้] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ko.md)
+- 🇨🇳 [จีน] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_zh-cn.md)
+- 🇿🇦 [แอฟริกาใต้] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_af.md)
+- 🇮🇳 [อินเดีย] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_hi.md)
+- 🇯🇵 [ญี่ปุ่น] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ja.md)
+- 🇷🇺 [รัสเซีย] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ru.md)
+- 🇹🇭 [ไทย] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_th.md)
+- 🇦🇪 [สหรัฐอาหรับเอมิเรตส์] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ar.md)
 
 ## ข้อเท็จจริง
 
@@ -112,13 +111,10 @@
 
 ## สนับสนุนฉัน
 
-หากคุณรู้สึกว่าโปรแกรมนี้มีประโยชน์คุณสามารถสนับสนุนฉัน [GitHub Zeroun Intezar Agler] (https://github.com/zerounintezaragler) บนลิงค์เป็นสื่อสังคมออนไลน์และผู้สนับสนุนของฉัน ฉันไม่รังเกียจหากคุณติดตาม / บริจาคเงินเพียงเล็กน้อยเท่านั้น
+หากคุณรู้สึกว่าโปรแกรมนี้มีประโยชน์คุณสามารถสนับสนุนฉัน [GitHub Zeroun Intezar Agler] (https://github.com/zerounintezaragler) บนลิงค์เป็นสื่อสังคมออนไลน์และผู้สนับสนุนของฉัน ฉันไม่รังเกียจถ้าคุณติดตาม / บริจาคเงินเล็กน้อยเท่านั้น
 
 ขอบคุณ
 
-Zerounintezaragler-27-07-2025
-
-
-## แท็ก
+Zerounintezaragler-27-07-2025## แท็ก
 
 - Whisper_python Python

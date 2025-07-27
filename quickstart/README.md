@@ -3,16 +3,15 @@
 **Whisper Python** dapatkan teks dari sebuah audio apapun, tanpa bayar, secara gratis offline, tidak perlu gpu, Dan tidak perlu convert FFMPEG
 
 - 🇮🇩 [Indonesia](https://github.com/zerounintezaragler/whisper_python/blob/main/README.md)
-- 🇨🇿 [Afrika](https://github.com/zerounintezaragler/whisper_python/blob/main/README_AFRIKA.md)
-- 🇨🇳 [China](https://github.com/zerounintezaragler/whisper_python/blob/main/README_CHINA.md)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [English](https://github.com/zerounintezaragler/whisper_python/blob/main/README_ENGLISH.md)
-- 🇮🇳 [India](https://github.com/zerounintezaragler/whisper_python/blob/main/README_INDIA.md)
-- 🇮🇩 [Jawa](https://github.com/zerounintezaragler/whisper_python/blob/main/README_JAWA.md)
-- 🇯🇵 [Jepang](https://github.com/zerounintezaragler/whisper_python/blob/main/README_JEPANG.md)
-- 🇰🇷 [Korea](https://github.com/zerounintezaragler/whisper_python/blob/main/README_KOREA.md)
-- 🇷🇺 [Russia](https://github.com/zerounintezaragler/whisper_python/blob/main/README_RUSSIA.md)
-- 🇮🇩 [Sunda](https://github.com/zerounintezaragler/whisper_python/blob/main/README_SUNDA.md)
-- 🇹🇭 [Thailand](https://github.com/zerounintezaragler/whisper_python/blob/main/README_THAILAND.md)
+- 🇺🇸 [Inggris](https://github.com/zerounintezaragler/whisper_python/blob/main/README_EN.md)
+- 🇰🇷 [Korea, Republic of South Korea](https://github.com/zerounintezaragler/whisper_python/blob/main/README_KO.md)
+- 🇨🇳 [China](https://github.com/zerounintezaragler/whisper_python/blob/main/README_zh-CN.md)
+- 🇿🇦 [South Africa](https://github.com/zerounintezaragler/whisper_python/blob/main/README_AF.md)
+- 🇮🇳 [India](https://github.com/zerounintezaragler/whisper_python/blob/main/README_HI.md)
+- 🇯🇵 [Japan](https://github.com/zerounintezaragler/whisper_python/blob/main/README_JA.md)
+- 🇷🇺 [Russia](https://github.com/zerounintezaragler/whisper_python/blob/main/README_RU.md)
+- 🇹🇭 [Thailand](https://github.com/zerounintezaragler/whisper_python/blob/main/README_TH.md)
+- 🇦🇪 [United Arab Emirates](https://github.com/zerounintezaragler/whisper_python/blob/main/README_AR.md)
 
 ## Fakta
 

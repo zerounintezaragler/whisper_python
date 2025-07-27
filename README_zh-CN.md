@@ -3,16 +3,15 @@
 **窃窃私语python **从任何音频中获取文字，而无需付款，免费离线，无需GPU，而无需转换FFMPEG
 
  - 🇮🇩[印度尼西亚]（https：//github.com/zerounintezaragler/whisper_python/blob/main/main/readme.md）
- - 🇨🇿[非洲]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_afrika.md）
- - 🇨🇳[中国]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_china.md）
- - 🏴󠁧󠁢󠁥󠁮󠁧󠁿[英语]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_english.md）
- - 🇮🇳[印度]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_india.md）
- - 🇮🇩[java]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_jawa.md）
- - 🇯🇵[日语]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_jepang.md）
- - 🇰🇷[韩国]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_korea.md）
- - 🇷🇺[俄罗斯]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_russia.md）
- - 🇮🇩[sundanese]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_sunda.md）
- - 🇹🇭[泰国]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_thailand.md）
+ - 🇺🇸[英语]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_en.md）
+ - 🇰🇷[韩国共和国]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_ko.md）
+ - 🇨🇳[中国]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_zh-cn.md）
+ - 🇿🇦[南非]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/main/readme_af.md）
+ - 🇮🇳[印度]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_hi.md）
+ - 🇯🇵[日本]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_ja.md）
+ - 🇷🇺[俄罗斯]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/readme_ru.md）
+ - 🇹🇭[泰国]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/main/readme_th.md）
+ - 🇦🇪[阿拉伯联合酋长国]（https://github.com/zerounintezaragler/whisper_python/blob/main/main/main/readme_ar.md）
 
 ＃＃ 事实
 
@@ -112,13 +111,10 @@
 
 ##支持我
 
-如果您认为此程序很有用，则可以支持我[Github Zeroun intezar agler]（https://github.com/zerounintezaragler）链接上有社交媒体和我的赞助商。我不介意如果您只关注 /捐款
+如果您认为此程序很有用，则可以支持我[Github Zeroun intezar agler]（https://github.com/zerounintezaragler）链接上有社交媒体和我的赞助商。我不介意您是否只关注 /捐赠一点钱
 
 谢谢
 
-Zerounintezaragler-27-07-2025
-
-
-##标签
+Zerounintezaragler-27-07-2025##标签
 
  -  hisper_python python

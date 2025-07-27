@@ -3,16 +3,15 @@
 ** Whisper Python ** Kry teks van enige klank sonder om te betaal, gratis vanlyn, geen nodige GPU nie, en hoef nie FFMPEG te omskep nie
 
 - 🇮🇩 [Indonesië] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme.md)
-- 🇨🇿 [Afrika] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_afrika.md)
-- 🇨🇳 [China] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_china.md)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Engels] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_english.md)
-- 🇮🇳 [Indië] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_india.md)
-- 🇮🇩 [Java] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jawa.md)
-- 🇯🇵 [Japannees] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jepang.md)
-- 🇰🇷 [Korea] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_korea.md)
-- 🇷🇺 [Rusland] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_russia.md)
-- 🇮🇩 [Sundanese] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_sunda.md)
-- 🇹🇭 [Thailand] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_thailand.md)
+- 🇺🇸 [Engels] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_en.md)
+- 🇰🇷 [Korea, Republiek van Suid -Korea] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ko.md)
+- 🇨🇳 [China] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_zh-cn.md)
+- 🇿🇦 [Suid -Afrika] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_af.md)
+- 🇮🇳 [Indië] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_hi.md)
+- 🇯🇵 [Japan] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ja.md)
+- 🇷🇺 [Rusland] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ru.md)
+- 🇹🇭 [Thailand] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_th.md)
+- 🇦🇪 [Verenigde Arabiese Emirate] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ar.md)
 
 ## feit
 
@@ -112,13 +111,10 @@ As ** jy ** nog steeds ** voel ** ** Moeilikheid ** en ** Verwarring ** ** Probe
 
 ## Ondersteun my
 
-As u voel dat hierdie program nuttig is, kan u my ondersteun [GitHub Zeroun Intezar Agler] (https://github.com/zerounintezaragler) op die skakel is beskikbaar op sosiale media en my borge. Ek gee nie om nieAs u net 'n bietjie geld volg / skenk
+As u voel dat hierdie program nuttig is, kan u my ondersteun [GitHub Zeroun Intezar Agler] (https://github.com/zerounintezaragler) op die skakel is beskikbaar op sosiale media en my borge. Ek gee nie om as u net 'n bietjie geld volg / skenk nie
 
 Dankie
 
-Zerounintezaragler-27-07-2025
-
-
-## Tags
+Zerounintezaragler-27-07-2025## Tags
 
 - fluister_python python

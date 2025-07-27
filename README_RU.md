@@ -3,16 +3,15 @@
 ** Whisper Python ** Получите текст из любого аудио, без оплаты, бесплатно, не нуждаясь в GPU и не нужно конвертировать FFMPEG
 
 - 🇮🇩 [Индонезия] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme.md)
-- 🇨🇿 [Африка] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_afrika.md)
-- 🇨🇳 [Китай] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_china.md)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [английский] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_english.md)
-- 🇮🇳 [Индия] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_india.md)
-- 🇮🇩 [java] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jawa.md)
-- 🇯🇵 [Японский] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_jepang.md)
-- 🇰🇷 [Корея] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_korea.md)
-- 🇷🇺?
-- 🇮🇩 [Sundanese] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_sunda.md)
-- 🇹🇭 [Таиланд] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_thailand.md)
+- 🇺🇸 [английский] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_en.md)
+- 🇰🇷 [Корея, Республика Южная Корея] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ko.md)
+- 🇨🇳 [Китай] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_zh-cn.md)
+- 🇿🇦 [Южная Африка] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_af.md)
+- 🇮🇳 [Индия] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_hi.md)
+- 🇯🇵 [Япония] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ja.md)
+- 🇷🇺 [Россия] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ru.md)
+- 🇹🇭 [Таиланд] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_th.md)
+- 🇦🇪 [United Arab Emirates] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ar.md)
 
 ## факт
 
@@ -112,13 +111,10 @@
 
 ## поддержите меня
 
-Если вы чувствуете, что эта программа полезна, вы можете поддержать меня [Github Zeroun Intezar Agler] (https://github.com/zerounintezaragler) на ссылке доступны в социальных сетях, а мои спонсоры. Я не противЕсли вы только следуете / пожертвоваете немного денег
+Если вы чувствуете, что эта программа полезна, вы можете поддержать меня [Github Zeroun Intezar Agler] (https://github.com/zerounintezaragler) на ссылке доступны в социальных сетях, а мои спонсоры. Я не против, если вы только следовали / пожертвовали немного денег
 
 Спасибо
 
-Zerounintezaragler-27-07-2025
-
-
-## теги
+Zerounintezaragler-27-07-2025## теги
 
 - Whisper_python Python
