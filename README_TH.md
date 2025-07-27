@@ -113,8 +113,13 @@
 
 หากคุณรู้สึกว่าโปรแกรมนี้มีประโยชน์คุณสามารถสนับสนุนฉัน [GitHub Zeroun Intezar Agler] (https://github.com/zerounintezaragler) บนลิงค์เป็นสื่อสังคมออนไลน์และผู้สนับสนุนของฉัน ฉันไม่รังเกียจถ้าคุณติดตาม / บริจาคเงินเล็กน้อยเท่านั้น
 
+[] (https://github.com/zerounintezaragler/zerounintezaragler/blob/main/assets/gopay.png? ดิบ = จริง)
+
 ขอบคุณ
 
-Zerounintezaragler-27-07-2025## แท็ก
+Zerounintezaragler-27-07-2025
+
+
+## แท็ก
 
 - Whisper_python Python

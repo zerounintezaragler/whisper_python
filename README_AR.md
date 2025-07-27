@@ -113,8 +113,13 @@
 
 إذا شعرت أن هذا البرنامج مفيد ، فيمكنك أن تدعمني [Github Zeroun Intezar Agler] (https://github.com/zerounintezaragler) على الرابط متاح وسائل التواصل الاجتماعي والرعاة. لا مانع إذا كنت تتبع / تبرعت فقط القليل من المال
 
+[] (https://github.com/zerounintezaragler/zeRounintezaragler/blob/main/assets/gopay.png؟ الخام = صحيح)
+
 شكرًا لك
 
-Zerounintezaragler-27-07-2025## العلامات
+Zerounintezaragler-27-07-2025
+
+
+## العلامات
 
 - Whisper_python Python

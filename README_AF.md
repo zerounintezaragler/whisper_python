@@ -113,8 +113,13 @@ As ** jy ** nog steeds ** voel ** ** Moeilikheid ** en ** Verwarring ** ** Probe
 
 As u voel dat hierdie program nuttig is, kan u my ondersteun [GitHub Zeroun Intezar Agler] (https://github.com/zerounintezaragler) op die skakel is beskikbaar op sosiale media en my borge. Ek gee nie om as u net 'n bietjie geld volg / skenk nie
 
+[] (https://github.com/zerounintezaragler/zeRounintezaragler/blob/hoof/bates/gopay.png? Rou = waar)
+
 Dankie
 
-Zerounintezaragler-27-07-2025## Tags
+Zerounintezaragler-27-07-2025
+
+
+## Tags
 
 - fluister_python python

@@ -113,8 +113,13 @@
 
 Если вы чувствуете, что эта программа полезна, вы можете поддержать меня [Github Zeroun Intezar Agler] (https://github.com/zerounintezaragler) на ссылке доступны в социальных сетях, а мои спонсоры. Я не против, если вы только следовали / пожертвовали немного денег
 
+[] (https://github.com/zerounintezaragler/zeRounintezaragler/Blob/Main/Assets/Gopay.png? RAW = TRUE)
+
 Спасибо
 
-Zerounintezaragler-27-07-2025## теги
+Zerounintezaragler-27-07-2025
+
+
+## теги
 
 - Whisper_python Python

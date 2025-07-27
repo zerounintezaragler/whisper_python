@@ -113,8 +113,13 @@
 
 이 프로그램이 유용하다고 생각되면 링크에서 [Github Zeroun Intezar Agler] (https://github.com/zerounintezaragler)를 지원할 수 있습니다. 당신이 약간의 돈을 팔로우 / 기부해도 괜찮습니다.
 
+[] (https://github.com/zerounintezaragler/zerounintezaragler/blob/main/assets/gopay.png? raw = true)
+
 감사합니다
 
-Zerounintezaragler-27-07-2025## 태그
+Zerounintezaragler-27-07-2025
+
+
+## 태그
 
 -whisper_python python

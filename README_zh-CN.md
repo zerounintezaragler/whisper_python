@@ -113,8 +113,13 @@
 
 如果您认为此程序很有用，则可以支持我[Github Zeroun intezar agler]（https://github.com/zerounintezaragler）链接上有社交媒体和我的赞助商。我不介意您是否只关注 /捐赠一点钱
 
+[]（https://github.com/zerounintezaragler/zeRounintezaragler/Blob/Main/Assets/gopay.png？ raw = true）
+
 谢谢
 
-Zerounintezaragler-27-07-2025##标签
+Zerounintezaragler-27-07-2025
+
+
+##标签
 
  -  hisper_python python

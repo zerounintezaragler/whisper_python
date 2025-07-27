@@ -1,27 +1,27 @@
-# Whisper Python
+＃ささやきPython
 
-** Whisper Python ** Get text from any audio, without paying, for free offline, no need for GPU, and no need to convert FFMPEG
+**ささやきpython **任意のオーディオから、支払いなしで、無料のオフラインで、GPUの必要はなく、FFMPEGを変換する必要はありません
 
-- 🇮🇩 [Indonesia] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme.md)
+-🇮🇩[インドネシア]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme.md）
 -🇺🇸[英語]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_en.md）
-- 🇰🇷 [Korea, Republic of South Korea] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ko.md)
-- 🇨🇳 [China] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_zh-cn.md)
-- 🇿🇦 [South Africa] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_af.md)
-- 🇮🇳 [India] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_hi.md)
-- 🇯🇵 [japan] (https://github.com/zerounintezaragler/Whisper_Python/blob/main/readme_ja.md)
-- 🇷🇺 [russia] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ru.md)
-- 🇹🇭 [Thailand] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_th.md)
-- 🇦🇪 [United Arab Emirates] (https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ar.md)
+ - 🇰🇷[韓国、韓国共和国]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ko.md）
+-🇨🇳[中国]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_zh-cn.md）
+-🇿🇦[南アフリカ]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_af.md）
+-🇮🇳[インド]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_hi.md）
+-🇯🇵[日本]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ja.md）
+-🇷🇺[ロシア]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ru.md）
+-🇹🇭[タイ]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_th.md）
+ - 🇦🇪[アラブ首長国連邦]（https://github.com/zerounintezaragler/whisper_python/blob/main/readme_ar.md）
 
 ＃＃ 事実
 
  - このライブラリは多くの依存関係に縛られていません3
-- No need for FFMPEG
+-FFMPEGは必要ありません
 
 ＃＃ 特徴
 
  -  [x] **非常に速い** ASHNCライブラリ
-- [x] ** Easy to use **
+ -  [x] **使いやすい**
 
 ＃＃ 例
 
@@ -29,17 +29,17 @@
 
 ＃＃ インストール
 
-Before installing make sure you know Basic Python at least you have installed Ptyhon on your computer / device. [Python Webサイト]（https://www.python.org）
+インストールする前に、少なくともコンピューター /デバイスにPtyhonをインストールしていることを確認してください。 [Python Webサイト]（https://www.python.org）
 
-- ** Python **
+ -  ** python **
 
   「バッシュ
-  Pip Install Whisper-Python
+  ピップインストールささやきパイソン
   `` `
 
 ##ドキュメント
 
-### ensureineinealized
+### suresinealized
 
 メソッドは自由に呼ばれなければなりません** on ** / method ** on **の後に** / **が** on **を提案します**
 
@@ -55,17 +55,17 @@ Before installing make sure you know Basic Python at least you have installed Pt
 
 **例：**
 
-`` `Python
+`` python
   whisperpythonzerounintezaragler.initialized（）を待っています
 `` `
 
 ＃＃＃ の上
 
-This method is useful for getting data updates from invokes / updates
+この方法は、Invoke / Updatesからデータの更新を取得するのに役立ちます
 
 **例：**
 
-`` `Python
+`` python
 
   def on_callback（update：dict）：
     印刷（更新）
@@ -82,7 +82,7 @@ This method is useful for getting data updates from invokes / updates
 **例：**
 
 `` python
-    result = await whisperpythonzerounintezaragler.loadmodelfromfilepath (whispermodelfilekat = "../../../ big-data/whisper/ggml-base.en.bin")
+    結果= whisperpythonzerounintezaragler.loadmodelfromfilepath（whispermodelfilekat = "../..// big-data/wisper/ggml-base.en.en.bin"）
     印刷（結果）
 `` `
 
@@ -113,8 +113,13 @@ if ** you ** still ** feel ** **難易度**と**混乱** ** **から**グルー�
 
 このプログラムが便利だと思う場合は、リンクで私をサポートできます[Github Zeroun Intezar Agler]（https://github.com/zerounintezaragler）は、ソーシャルメディアと私のスポンサーを利用できます。あなたがちょっとしたお金だけをフォロー /寄付するかどうかは気にしません
 
+[]（https://github.com/zerounintezaragler/zerounintezaragler/blob/main/assets/gopay.png？ raw = true）
+
 ありがとう
 
-Zerounintezaragler-27-07-2025##タグ
+Zerounintezaragler-27-07-2025
+
+
+##タグ
 
 -whisper_python python

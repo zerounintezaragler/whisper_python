@@ -113,8 +113,13 @@ if ** you ** still ** feel ** ** difficulty ** and ** confusion ** ** try to joi
 
 If you feel this program is useful, you can support me [Github Zeroun Intezar Agler] (https://github.com/zerounintezaragler) on the link is available social media and my sponsors. I don't mind if you only follow / donate a little money
 
+[] (https://github.com/zerounintezaragler/zeRounintezaragler/Blob/Main/Assets/Gopay.png? Raw = True)
+
 Thank You
 
-Zerounintezaragler-27-07-2025## Tags
+Zerounintezaragler-27-07-2025
+
+
+## Tags
 
 - Whisper_Python Python

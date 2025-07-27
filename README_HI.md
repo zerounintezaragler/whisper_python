@@ -113,8 +113,13 @@
 
 यदि आपको लगता है कि यह कार्यक्रम उपयोगी है, तो आप मुझे [GitHub Zeroun Intezar Agler] (https://github.com/zerounintezaragler) का समर्थन कर सकते हैं, जो सोशल मीडिया और मेरे प्रायोजक उपलब्ध है। मुझे कोई आपत्ति नहीं है अगर आप केवल थोड़ा पैसा फॉलो / दान करते हैं
 
+[] (https://github.com/zerounintezaragler/zeRounintezaragler/blob/main/assets/gopay.png? कच्चा = सच)
+
 धन्यवाद
 
-ZEROUNINTEZARAGLER-27-07-2025## टैग
+ZEROUNINTEZARAGLER-27-07-2025
+
+
+## टैग
 
 - व्हिस्पर_पिथन पायथन
