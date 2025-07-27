@@ -1,0 +1,132 @@
+import random
+import json
+
+import uuid
+from typing import Callable, Any, Dict, Optional
+
+# General Library Documentation Undocument By General Corporation & Global Corporation & General Developer
+def generate_uuid(length: int, text: str = "0123456789abcdefghijklmnopqrstuvwxyz") -> str:
+    return str(uuid.uuid4())
+
+# GeneralUniverse
+class EventEmitterZerounIntezarAglerListener:
+    empty = None  # Akan didefinisikan setelah class selesai
+
+    def __init__(self):
+        self.event_name: Optional[str] = None
+        self.event_unique_id: Optional[str] = None
+        self.onCancel: Optional[Callable[['EventEmitterZerounIntezarAglerListener'], None]] = None
+        self.onUpdate: Optional[Callable[[Any], Any]] = None
+
+        self.is_initialized: bool = False
+        self.is_cancel: bool = False
+        self.is_pause: bool = False
+        self.isDisposed: bool = False 
+ 
+
+    def ensure_initialized(self,
+                           event_name: str,
+                           event_unique_id: str,
+                           on_update: Callable[['EventEmitterZerounIntezarAglerListener', Any], Any],
+                           on_cancel: Callable[['EventEmitterZerounIntezarAglerListener'], None]):
+        if self.is_initialized:
+            return
+        self.event_name = event_name
+        self.event_unique_id = event_unique_id
+        self.onUpdate = on_update
+        self.onCancel = on_cancel
+        self.is_initialized = True
+
+    def resume(self):
+        self.is_pause = False
+
+    def pause(self):
+        self.is_pause = True
+
+    def dispose(self):
+        if self.isDisposed:
+            return
+        self.isDisposed = True
+        self.close()
+ 
+    def close(self):
+        self.isDisposed = True
+        self.cancel()
+
+    def cancel(self) -> bool:
+        if not self.is_initialized:
+            return False
+        self.isDisposed = True
+        self.is_cancel = True
+        self.is_pause = True
+        if self.onCancel:
+            self.onCancel(self)
+        return True
+
+    def __str__(self) -> str:
+        return f"{self.event_name} {self.event_unique_id} {json.dumps(self.state_data)}"
+
+
+# menetapkan static field setelah class dibuat
+EventEmitterZerounIntezarAglerListener.empty = EventEmitterZerounIntezarAglerListener()
+
+# GeneralUniverse
+class EventEmitterZerounIntezarAgler:
+    def __init__(self):
+        self.events: Dict[str, Dict[str, EventEmitterZerounIntezarAglerListener]] = {}
+
+    def emit(self, event_name: str, value: Any):
+        event_datas = self.events.setdefault(event_name, {})
+        for listener in list(event_datas.values()):
+            if listener.is_pause:
+                continue
+            if listener.onUpdate:
+                # print(value)
+                listener.onUpdate(value);
+                # listener.onUpdate(listener, value)
+
+    def on(self,
+           event_name: str,
+           on_callback: Callable[[Any], Any]) -> EventEmitterZerounIntezarAglerListener:
+        event_datas = self.events.setdefault(event_name, {})
+        listener = EventEmitterZerounIntezarAglerListener()
+
+        def _on_cancel(event: EventEmitterZerounIntezarAglerListener):
+            event_datas.pop(event.event_unique_id, None)
+            self.remove(event_name, event.event_unique_id)
+            if event.isDisposed:
+                return
+            event.isDisposed = True
+            event.dispose()
+
+        listener.ensure_initialized(
+            event_name=event_name,
+            event_unique_id=self.generate_new_unique_id(event_datas),
+            on_update=on_callback,
+            on_cancel=_on_cancel
+        )
+
+        event_datas[listener.event_unique_id] = listener
+        return listener
+
+    def clear(self):
+        self.events.clear()
+
+    def off(self, listener: EventEmitterZerounIntezarAglerListener):
+        if listener.is_dummy():
+            return
+        self.remove(listener.event_name, listener.event_unique_id)
+
+    def remove(self, event_name: str, unique_id: str):
+        event_datas = self.events.setdefault(event_name, {})
+        event_datas.pop(unique_id, None)
+
+    def get_listeners_count(self, event_name: str) -> int:
+        return len(self.events.setdefault(event_name, {}))
+
+    def generate_new_unique_id(self, event_datas: Dict[str, EventEmitterZerounIntezarAglerListener]) -> str:
+        while True:
+            new_unique_id = generate_uuid(random.randint(10, 19), "0123456789abcdefghijklmnopqrstuvwxyz-_")
+            if new_unique_id not in event_datas:
+                return new_unique_id
+

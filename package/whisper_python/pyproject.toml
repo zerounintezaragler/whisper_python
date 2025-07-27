@@ -1,0 +1,19 @@
+[project]
+name = "whisper-python"
+version = "0.0.0"
+description = "whisper_python ZerounIntezarAgler"
+authors = ["zerounintezaragler"]
+license = "MIT License"
+readme = "README.md"
+homepage = "https://github.com/zerounintezaragler/whisper_python"
+repository = "https://github.com/zerounintezaragler/whisper_python"
+documentation = "https://github.com/zerounintezaragler/whisper_python"
+
+packages = [
+    { include = "lib" }
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+

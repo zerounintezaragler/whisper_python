@@ -1,0 +1,110 @@
+import ctypes
+# from ctypes import c_char_p
+import json
+import os
+import sys
+import asyncio
+import uuid
+from typing import Any, Callable
+
+import zeroun_intezar_agler.zeroun_intezar_agler
+  
+# Define callback type: void(char*)
+CALLBACK_TYPE = ctypes.CFUNCTYPE(None, ctypes.c_char_p)
+
+
+class WhisperPythonZerounIntezarAgler:
+    def __init__(self):
+        self._lib = None
+        self._event_emitter = zeroun_intezar_agler.zeroun_intezar_agler.EventEmitterZerounIntezarAgler()
+ 
+    def emit(self, event_name:str, value=any) -> None: 
+        self._event_emitter.emit(event_name=event_name, value=value)
+
+    def on(self, event_name:str, on_callback: Callable[[dict], Any]) -> zeroun_intezar_agler.zeroun_intezar_agler.EventEmitterZerounIntezarAglerListener: 
+        def callback(msg_ptr:dict): 
+            on_callback(msg_ptr)
+        return self._event_emitter.on(event_name, on_callback=callback);
+        
+
+    def initializedWhisperGplByZerounIntezarAglerNativeCallbackFunction(self) -> None:
+        lib = self
+
+        # Wrap dalam CFUNCTYPE + closure ke self
+        @ctypes.CFUNCTYPE(None, ctypes.c_char_p)
+        def callback(msg_ptr):
+            # print(msg_ptr)
+            updateRaw = dict(json.loads(msg_ptr.decode("utf-8"))) 
+            
+            if updateRaw.get("@extra") != None:
+              lib.emit("invoke", updateRaw)
+            else:
+              lib.emit("update", updateRaw)
+        return callback
+
+    def ensureInitialized(self, libraryPath: str) -> None:
+        if self._lib:
+            # Tidak ada "close" di ctypes, tapi kita bisa clear referensi
+            del self._lib
+            self._lib = None
+        
+        if libraryPath == "":
+            # libraryPath = os.path.abspath(os.path.join(os.path.dirname(__file__), 'lib/libwhisper_python.so'))
+            libraryPath = 'libwhisper_python.so'
+        # Load library
+        self._lib = ctypes.CDLL(libraryPath)
+ 
+        self._lib.InvokeWhisperGplByZerounIntezarAglerNativeFunction.restype = ctypes.c_char_p
+        self._lib.InvokeWhisperGplByZerounIntezarAglerNativeFunction.argtypes = [ctypes.c_char_p]
+        self._callback = self.initializedWhisperGplByZerounIntezarAglerNativeCallbackFunction()
+
+        self._lib.InitializedWhisperGplByZerounIntezarAglerNativeCallbackFunction(self._callback)
+
+
+    def invokeRaw(self, parameters: dict) -> dict:
+        # Ubah dict ke string, encode ke bytes
+        input_bytes = json.dumps(parameters).encode("utf-8")
+        # Kirim ke C
+        result_ptr = self._lib.InvokeWhisperGplByZerounIntezarAglerNativeFunction(input_bytes)
+        # Ubah pointer ke string Python
+        result_str = result_ptr.decode("utf-8")
+        # Parse JSON
+        return json.loads(result_str)
+    
+    def invokeSync(self, parameters: dict) -> dict:
+        parameters["@is_sync"] = True;
+        return self.invokeRaw(parameters=parameters)
+    
+    async def invoke(self, parameters: dict) -> dict:
+        get_extra = parameters.get("@extra")
+        if isinstance(get_extra, str):
+            get_extra = get_extra
+        elif get_extra is None or not isinstance(get_extra, str):
+            get_extra = zeroun_intezar_agler.zeroun_intezar_agler.generate_uuid(10, text="")
+        parameters["@extra"] = get_extra
+        parameters["@is_async"] = True;
+        completer = asyncio.Future()
+        def callback(update:dict): 
+           if not completer.done() and update.get("@extra") == get_extra: 
+               completer.set_result(update); 
+
+        listener = self.on("invoke", on_callback=callback);
+        self.invokeRaw(parameters=parameters);
+        while True:
+           if completer.done():
+              listener.dispose()
+              return completer.result()
+      
+
+    async def loadModelFromFilePath(self, whisperModelFilePath:str) -> dict:
+      return await self.invoke({
+        "@type": "loadModelFromFilePathWhisperGplByZerounIntezarAglerNative",
+        "whisper_model_file_path": whisperModelFilePath,
+      })
+
+    async def transcribeFromFilePath(self, file_path:str) -> dict:
+      return await self.invoke({
+        "@type": "transcribeFromFilePathWhisperGplByZerounIntezarAglerNative",
+        "file_path": file_path,
+      })
+
