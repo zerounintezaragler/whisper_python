@@ -113,15 +113,7 @@ jika **kamu** masih **merasa** **kesulitan** dan **kebingungan** **cobalah berga
 
 Jika kamu merasa program ini berguna, kamu bisa support saya [GITHUB Zeroun Intezar Agler](https://github.com/zerounintezaragler) di link itu tersedia social media dan sponsor saya. saya tidak keberatan jika kamu hanya follow / donasi uang sedikit
 
-![]({gopay_qr_url})
-
-- https://github.com/sponsors/zerounintezaragler
-- https://www.patreon.com/c/{patreon_username}
-- https://opencollective.com/{opencollective_username}
-- https://paypal.me/{paypal_username}
-
 Terimakasih
-
 
 zerounintezaragler - 27-07-2025
 
